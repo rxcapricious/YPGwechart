@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "git.path": "H:/软件/gitClient/Git/cmd/git.exe",
+        "editor.renameOnType": true,
+        "*.wxss": "css",
+        "*.wxml": "html"
+    }
+}
